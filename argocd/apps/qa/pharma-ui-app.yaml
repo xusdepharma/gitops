@@ -13,7 +13,7 @@ spec:
   project: pharma
 
   source:
-    repoURL: https://github.com/<YOUR_ORG>/zen-gitops.git
+    repoURL: https://github.com/xusdepharma/gitops.git
     targetRevision: HEAD
     path: helm-charts
     helm:
